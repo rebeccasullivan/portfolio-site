@@ -7,7 +7,10 @@
 	
 		<div class="resumeSummary">
 			<h2>Summary</h2>
-			<p>MBA professional transitioning to software development to use my leadership experience, technical skills, initiative, and creative 
+			<p>
+			
+			
+			MBA professional transitioning to software development to use my leadership experience, technical skills, initiative, and creative 
 		 	background to solve problems and engage my passion for learning.</p>
 		</div>
 		
@@ -15,24 +18,22 @@
 			<div class="resumeSection">
 				<h3>Languages/Technologies</h3>
 				<ul>
-					<li>Java</li>
-					<li>HTML/CSS</li>
-					<li>SQL (PostgreSQL)</li>
-					<li>Tools: JUnit, Git, Eclipse</li>
-					<li>Adobe CC (Photoshop, InDesign)</li>
+					<li>.NET Stack: C#, ASP.NET, WPF, LINQ, WinForms, NUnit, IIS</li>
+					<li>Java Stack: Java, JSP/JSTL, Spring MVC, Tomcat, JUnit</li>
+					<li>Front-End: HTMl, CSS, JavaScript, Bootstrap</li>
+					<li>Databases: SQL Server, PostgreSQL</li>
+					<li>Design: Adobe CC (Photoshop, InDesign)</li>
 					<li>Email Marketing Tools: Constant Contact, MailChimp, Emma</li>
+					<li>Other: Web services, SoapUI, Visual Studio, TFS, Git, Fiddler</li>
 				</ul>
 			</div>
 			
 			<div class="resumeSection">
-				<h3>Skills</h3>
+				<h3>Other Skills</h3>
 				<ul>
-					<li>Brand Management</li> 
+					<li>Consulting</li> 
 					<li>Customer Relations</li> 
-					<li>Marketing Communications</li> 
 					<li>Digital Marketing</li> 
-					<li>Marketing Strategy</li> 
-					<li>Social Media</li> 
 					<li>Event Management</li> 
 					<li>Internal Communications</li> 
 				</ul>
