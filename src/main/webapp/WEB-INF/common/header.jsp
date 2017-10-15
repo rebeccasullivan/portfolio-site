@@ -8,7 +8,7 @@
 		
 		
 		<link rel="stylesheet" type="text/css" href="/css/site.css">
-		<title>Rebecca Sullivan - Online Portfolio</title>
+		<title>Rebecca Sullivan - Developer &amp; Consultant</title>
 	</head>
 
 	<body>
